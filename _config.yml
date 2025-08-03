@@ -22,7 +22,7 @@ repository               : "common-idioms/common-idioms.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "kn0wledge.png"
+  avatar           : "files/kn0wledge.png"
   name             : "Common Idioms"
   pronouns         : # example: "she/her"  
   bio              : "Hi, I make learning tools for those studying languages."
