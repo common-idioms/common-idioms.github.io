@@ -8,52 +8,52 @@ redirect_from:
 ---
 
 {% include base_path %}
-# Spanish Resources 🇪🇸
+# German Resources 🇩🇪
 
-Hey everyone, here's everything I've put together for Spanish. This page has the Anki decks I've created, plus a list of other tools and websites I've found genuinely useful in my own studies.
+Willkommen! Here is my collection of resources for learning German. German grammar can be a challenge, so I've focused on creating and finding tools that tackle the tough parts—like noun genders and verb conjugations—in a clear way.
 
-I hope this helps you on your path to fluency!
+I hope these help make your learning journey a bit smoother.
 
 ***
 
 ## 🗂️ Anki Decks
 
-Here are the Anki decks I've built. I've split them into two types: decks focused on learning common, useful phrases, and decks for building a strong foundation of core vocabulary.
+These are the Anki decks I've built to help drill the core components of the German language. They are split between decks focused on conversational phrases and those for building essential vocabulary.
 
 ### 💬 Phrase Decks
 
-These are great for learning how to string words together and sound more natural in conversations.
+These decks will help you learn to speak in full sentences and navigate common, real-world situations.
 
-*   **[Spanish Travel Essentials](link-to-spanish-travel-deck.apkg)** - All the key phrases you'd need for a trip, from ordering at a restaurant to asking for directions.
-*   **[500 Common Conversational Phrases](link-to-spanish-phrases-deck.apkg)** - A deck designed to get you comfortable with the natural flow of spoken Spanish.
+*   **[German for Travelers](link-to-german-travel-deck.apkg)** - The essential phrases you need for a trip to a German-speaking country. Covers everything from the airport to the bakery.
+*   **[A1/A2 Everyday Sentences](link-to-german-phrases-deck.apkg)** - A collection of simple, high-frequency sentences to build your conversational confidence.
 
 ### 🧠 Vocabulary Decks
 
-These are focused on building a strong foundation of individual words, usually with example sentences and audio links.
+These decks are for building a solid foundation of words, genders, and verbs.
 
-*   **[Top 2000 Spanish Words](link-to-top-2000-deck.apkg)** - Based on frequency lists, so you're learning the words you'll actually see and hear most often.
-*   **[DELE A2 Vocabulary Builder](link-to-dele-a2-deck.apkg)** - A focused deck to help you master the vocabulary needed for the DELE A2 exam.
-*   **[Spanish Nouns with Gender](link-to-spanish-nouns-deck.apkg)** - A simple but essential deck for memorizing if a noun is *el* or *la*.
+*   **[DW Deutschtrainer Vocab (A1/A2)](link-to-dw-trainer-deck.apkg)** - The vocabulary from Deutsche Welle's excellent "Deutschtrainer" course, complete with example sentences and links to audio.
+*   **[The Ultimate German Gender Deck (der, die, das)](link-to-german-gender-deck.apkg)** - An essential deck designed to drill the genders of the most common German nouns until they become second nature.
+*   **[Top 100 Strong & Irregular Verbs](link-to-german-verbs-deck.apkg)** - Master the tricky verb conjugations that don't follow the normal rules.
 
 ***
 
 ## Other Helpful Tools & Links
 
-Learning a language is more than just flashcards. Here are some other resources I use all the time.
+Beyond flashcards, these are the websites and channels I constantly recommend to other German learners.
 
 ### Grammar & Verbs
 
-*   **[SpanishDict Conjugator](https://www.spanishdict.com/conjugation)** - My go-to for checking any verb conjugation. It's fast, accurate, and shows all tenses.
-*   **[The Language Tutor on YouTube](https://www.youtube.com/playlist?list=PLf8XN5kNFkhd2_58Z2aV3wG_d33S23y2s)** - Dr. Danny Evans breaks down Spanish grammar in a super clear and simple way. His videos were a lifesaver for me when I was starting out.
+*   **[LEO.org Verb Conjugator](https://dict.leo.org/)** - My top recommendation for checking verb conjugations. It's fast, comprehensive, and very reliable. Just type in a verb and look for the table icon.
+*   **[YourGermanTeacher on YouTube](https://www.youtube.com/c/YourGermanTeacher)** - An excellent channel that explains German grammar concepts with incredible clarity and helpful visuals.
 
 ### Listening Practice
 
-*   **[Notes in Spanish](https://www.notesinspanish.com/)** - An amazing podcast that starts from absolute beginner and goes all the way to advanced. The conversations between Ben (English) and Marina (Spanish) are natural and engaging.
-*   **[Español con Juan](https://www.youtube.com/c/espanolconjuan)** - Juan uses simpler Spanish and a lot of gestures, making his videos perfect for intermediate learners who want to practice their listening comprehension.
+*   **[Easy German (YouTube Channel)](https://www.youtube.com/c/EasyGerman)** - Fantastic street interviews with real people. It's the best way to get used to the sound of natural, spoken German. Comes with both German and English subtitles.
+*   **[Langsam gesprochene Nachrichten (DW)](https://learngerman.dw.com/de/langsam-gesprochene-nachrichten/s-60043323)** - "Slowly Spoken News" from Deutsche Welle. Perfect for intermediate learners who want to practice listening to formal German.
 
 ### Dictionaries
 
-*   **[WordReference](https://www.wordreference.com/es/)** - Fantastic dictionary, especially for its forums where native speakers discuss tricky translations and nuances.
-*   **[SpanishDict](https://www.spanishdict.com/)** - More than just a dictionary. It gives you three different translations, example sentences, and conjugations all in one place.
+*   **[LEO.org](https://dict.leo.org/)** - A powerful and feature-rich dictionary used by many native speakers and learners alike. Its forums are also a goldmine for tricky translations.
+*   **[Duden](https://www.duden.de/)** - The official, definitive dictionary of the German language. When you absolutely need the correct gender, plural form, or definition, this is the final authority.
 
-¡Buen estudio!
+Viel Erfolg und viel Spaß! (Good luck and have fun!)
