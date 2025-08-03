@@ -34,7 +34,7 @@ My goal is to keep everything here free and accessible.
 
 These projects take a lot of time, coffee, and trial-and-error to create. If you find them valuable and want to help me dedicate more time to building new resources, you can support me here:
 
-<a href="https://www.buymeacoffee.com/your-username" target="_blank">
+<a href="https://buymeacoffee.com/commonidioms" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
 </a>
 
