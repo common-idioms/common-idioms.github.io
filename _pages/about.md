@@ -8,7 +8,7 @@ redirect_from:
 ---
 # Welcome! 
 
-My name is Common Idioms or Comid (not Covid), and I'm a language learner, just like you. I'm also a bit of a tech nerd. A while back, I realized I could combine those two passions to make the learning process better for everyone.
+My name is Common Idioms, and I'm a language learner I'm also a bit of a tech nerd. A while back, I realized I could combine those two passions to make the learning process better for everyone.
 
 ## What I Do Here
 
