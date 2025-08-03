@@ -37,12 +37,7 @@ These projects take a lot of time, coffee, and trial-and-error to create. If you
 <a href="https://www.buymeacoffee.com/your-username" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
 </a>
-<br>
-<a href="https://paypal.me/your-username" target="_blank">
-  <img src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" alt="Donate with PayPal" style="height: 60px !important; padding-top: 10px;">
-</a>
 
-<br>
 
 Honestly, no pressure at all. The fact that you're here using these tools is thanks enough.
 
@@ -52,4 +47,4 @@ Please use the form [here]() to report. I will fix it **ASAP**!
 
 Enjoy!
 
-- Common Idioms
+_Common Idioms_
