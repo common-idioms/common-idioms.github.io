@@ -1,24 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Welcome! 
 
-My name is Common Idioms, and I'm a language learner I'm also a bit of a tech nerd. A while back, I realized I could combine those two passions to make the learning process better for everyone.
-
-## What I Do Here
-
-In short: **I create high-quality language resources.**
-
-But I don't do it the old-fashioned way. Instead, I write custom scripts and programs to handle the heavy lifting. I put in the **personal effort**—reviewing, refining, and organizing the material to make sure it's genuinely useful, accurate, and easy to use.
-
-It's the best of both worlds: the speed and power of code, with a human touch to ensure quality.
-
-***
+My name is **Common Idioms**, a passionate language learnier. I would design systems and programs which gave me better resouces to learn quickeer. I have decided to share them here with you!
 
 ## The Resources
 
